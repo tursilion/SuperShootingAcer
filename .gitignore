@@ -1,0 +1,8 @@
+*.a
+*.A
+*.exe
+*.EXE
+pcc*
+PCC*
+*.o
+*.O
